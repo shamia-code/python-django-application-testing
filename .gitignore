@@ -1,0 +1,54 @@
+#Python 
+*.pyc
+*~
+
+#Installer logs 
+pip-log.txt
+pip-delete-this-directory.txt
+
+#PyInstaller
+*.manifest
+*.spec
+
+#Env
+.env     
+venv/
+venv
+*.pyc
+#Database
+db.sqlite3
+
+#Static folder at project root
+/static/
+
+#macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+#Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN
+
+#Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
+#Django stuff
+*.log
+
+#Translations 
+*.pot
+
+#Sphinx documentaion 
+docs/_build/
+
+#PyBuilder 
+target/
+
+#settings 
+settings.py
