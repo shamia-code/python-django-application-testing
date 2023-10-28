@@ -12,3 +12,4 @@ def test_multiplication_11(num,output):
 
 
 #run this test using: pytest test_multiplication.py -v --junitxml="result.xml"
+ccd ..
